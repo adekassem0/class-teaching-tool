@@ -37,7 +37,7 @@ implementation is secondary and existing code is preferred.
 - KISS: a simple, web-based smartphone app for students
 
 ## 4. Team / Author
-- Name: _<Adi Kassem>_
+- Name: Adi Kassem
 - GitHub: [@adekassem0](https://github.com/adekassem0)
 
 ## 5. Tech Stack (draft)
