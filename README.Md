@@ -49,10 +49,13 @@ implementation is secondary and existing code is preferred.
 | AI | LLM API + computer-vision model for counting |
 
 ## 6. Repository Structure (planned)
-docs/ – tools report, SoW, SRS, use cases, design, testing, conclusion
-src/ – demo application
-tests/ – tests
-assets/ – diagrams and screenshots
+
+```text
+docs/    - tools report, SoW, SRS, use cases, design, testing, conclusion
+src/     - demo application
+tests/   - tests
+assets/  - diagrams and screenshots
+```
 
 ## 7. Deliverables & Status
 - [x] Repository + README
